@@ -9,8 +9,6 @@
 
 main:
 
-  - title: "Bio"
-    url: /bio/
     
   - title: "Basketball"
     url: /basketball/
