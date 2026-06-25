@@ -8,6 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+  - title: "Bio"
+    url: /bio/
+    
   - title: "Basketball"
     url: /basketball/
 
@@ -16,9 +20,6 @@ main:
 
   - title: "AI and Data Science"
     url: /ai_ds/    
-    
-  - title: "Bio"
-    url: /bio/
         
   # - title: "Blog Posts"
     # url: /year-archive/
