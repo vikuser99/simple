@@ -29,6 +29,6 @@ When I entered high school, I began training under my current guru, Sanjeev Chim
 <!-- ![Bageshree](bageshree.m4a) -->
 
 <audio controls>
-  <source src="bageshree.m4a" type="audio/mpeg">
+  <source src="{{ '/assets/bageshree.m4a' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
