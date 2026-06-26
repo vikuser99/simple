@@ -12,4 +12,4 @@ Over time, my passion for basketball continued to grow, and I began playing more
 
 {% include youtube.html id="t6d3So77wb8" %}
 
-![Basketball 1](basketball_1.gif)
+<!-- ![Basketball 1](basketball_1.gif) -->
