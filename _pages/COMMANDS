@@ -1,0 +1,10 @@
+git status
+git add _pages/about.md
+git status
+git diff --cached
+git status
+git commit -m "Update About me"
+git status
+git push
+git status
+
