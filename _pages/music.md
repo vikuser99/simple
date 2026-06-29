@@ -32,3 +32,6 @@ When I entered high school, I began training under my current guru, Sanjeev Chim
   <source src="{{ '/simple/assets/bageshree.m4a' | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
+## First Music Performance
+{% include youtube.html id="GhT8AvjJkZA" %}
