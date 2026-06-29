@@ -23,7 +23,7 @@ repository               : "vikuser99/simple"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.JPG"
   name             : "Avik Dwivedi"
   pronouns         : # example: "he/him"  
   bio              : "High school student attending Westview High"
