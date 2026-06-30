@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is about me.
+Hi, I'm Avik! I'm a high school student who enjoys staying active and trying new things.
+
+One of my biggest interests is basketball. I love watching NBA games, keeping up with the latest news, and playing whenever I can. Outside of basketball, I like hanging out with my friends, going to the beach, and just getting out of the house.
+
+I'm always looking to learn something new and challenge myself. Whether it's through basketball, martial arts, or the Police Cadet Program, I've learned the importance of discipline and confidence. I'm always working to improve and become the best version of myself.
 
 
 
