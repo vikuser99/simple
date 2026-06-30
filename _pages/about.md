@@ -15,7 +15,7 @@ I'm always looking to learn something new and challenge myself. Whether it's thr
 
 ![My photo](https://vikuser99.github.io/simple/files/avik_1.jpeg){:width="20%"}
 
-
+![My photo](https://vikuser99.github.io/simple/files/avik_2.jpeg){:width="20%"}
 
 
 
