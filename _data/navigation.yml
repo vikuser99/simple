@@ -17,7 +17,24 @@ main:
     url: /music/    
 
   - title: "AI and Data Science"
-    url: /ai_ds/    
+    url: /ai_ds/ 
+     
+  - title: "Martial Arts"
+    url: /martial_arts/    
+
+  - title: "Police Cadet"
+    url: /police_cadet/ 
+    
+  - title: "Volunteering"
+    url: /volunteering/   
+    
+    
+
+
+
+    
+
+    
         
   # - title: "Blog Posts"
     # url: /year-archive/
