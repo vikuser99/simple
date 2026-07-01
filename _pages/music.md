@@ -8,9 +8,24 @@ redirect_from:
 
 # Hindustani Music
 
-I was introduced to Hindustani classical music when I was around 8 or 9 years old. My mom encouraged me to start learning because I had always enjoyed music from a young age. I loved singing, had a natural interest in music, and also spent time playing guitar. My first guru, Aditya Sharma, taught me the fundamentals of Hindustani music, including the seven swars (notes). Over the next several years, I built a strong foundation and gradually began learning ragas and bandishes.
+# Music
 
-When I entered high school, I began training under my current guru, Sanjeev Chimmalgi. Under his guidance, I have improved my vocal technique by focusing on details such as oscillations (gamak) and expression. He also emphasized the importance of discipline, encouraging me to follow a consistent daily practice routine, including waking up early to practice. I continue to study with him today and am constantly working to improve as both a singer and musician.
+Music has been a part of my life for as long as I can remember. When I was around five years old, my mom introduced me to guitar. I really enjoyed learning, but after my instructor moved away, I stopped taking lessons. Even now, I'll still pick up the guitar every once in a while and play for fun.
+
+One thing that always stuck with me, though, was singing. I would spend hours singing around the house, especially in the bathroom, and my parents noticed that I had a natural interest in music. When I was around ten years old, they enrolled me in Hindustani classical music.
+
+I began learning under my first guru, Aditya Sharma, who introduced me to the foundations of Hindustani music. I learned the seven swars (notes), different vocal exercises, and the importance of singing with proper technique. Over the next few years, I learned many raags and bandishes while preparing for annual music examinations. He saw potential in my voice and encouraged me to continue improving.
+
+When I started high school, my mom shared one of my recordings with another guru, Sanjeev Chimmalagi. After listening to it, he immediately said, "I want this kid." That was a huge turning point in my musical journey.
+
+Under his guidance, I began studying Hindustani music at a much deeper level. He helped me improve techniques such as gamak, which added more depth and expression to my singing. I continued learning new raags, bandishes, and taals, but one of the biggest lessons he taught me was improvisation.
+
+Before then, I believed that singing was simply about memorizing songs and performing them correctly. My guru showed me that the true beauty of Hindustani music comes from creativity and improvisation. Learning to create music in the moment completely changed the way I thought about singing and made me enjoy it even more.
+
+Hindustani music has also helped me grow as a person. When I first started, I was nervous to sing in front of other people. Over time, performing in front of audiences helped me overcome my stage fright and become much more confident. Along the way, I've met many talented musicians, made new friends, and learned from incredible teachers.
+
+Today, I continue training in Hindustani classical music. It has become a way for me to express myself. Every time I sing, I try to perform with passion. Looking back, I'm grateful that my parents introduced me to music at such a young age because it has shaped who I am both as a musician and as a person.
+
 
 ## Sanjeev Chimmalgi
 
