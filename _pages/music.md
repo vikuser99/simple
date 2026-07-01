@@ -33,5 +33,9 @@ When I entered high school, I began training under my current guru, Sanjeev Chim
   Your browser does not support the audio element.
 </audio>
 
-## First Music Performance
+## Some Performances
 {% include youtube.html id="GhT8AvjJkZA" %}
+## Raag Bhimpalasi
+{% include youtube.html id="Ztv-KK6DN_o" %}
+## Raag Bihaag
+{% include youtube.html id="EuNTtf8UESw" %}
