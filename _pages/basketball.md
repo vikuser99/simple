@@ -27,7 +27,7 @@ When I entered high school, I faced another challenge. At first, I wasn't a star
 Since then, basketball has continued to be one of the biggest parts of my life. I've progressed from freshman JV to JV and now varsity, where I mainly play shooting guard while also filling in at point guard when needed. Every season has taught me something new, and I'm still working to improve every day. Looking back, I'm grateful my parents signed me up for that first basketball league because picking up a basketball has become one of the best decisions I've ever made.
 
 
-{% include youtube.html id="t6d3So77wb8" %}
+{% include youtube.html id="nt0nDKf_i2k" %}
 
 {% include youtube.html id="7HjG046Hd4I" %}
 
