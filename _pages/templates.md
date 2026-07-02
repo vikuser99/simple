@@ -57,6 +57,21 @@ which evaluates to
 Preview:
 {% include youtube.html id="oH0TWLY-OvQ" %}
 
+# Audio
+
+```
+<audio controls>
+  <source src="{{ '/simple/assets/bageshree.m4a' | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+```
+
+Preview:
+<audio controls>
+  <source src="{{ '/simple/assets/bageshree.m4a' | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 
 
