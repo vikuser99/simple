@@ -6,10 +6,6 @@ redirect_from:
   - /music.html
 ---
 
-# Hindustani Music
-
-# Music
-
 Music has been a part of my life for as long as I can remember. When I was around five years old, my mom introduced me to guitar. I really enjoyed learning, but after my instructor moved away, I stopped taking lessons. Even now, I'll still pick up the guitar every once in a while and play for fun.
 
 One thing that always stuck with me, though, was singing. I would spend hours singing around the house, especially in the bathroom, and my parents noticed that I had a natural interest in music. When I was around ten years old, they enrolled me in Hindustani classical music.
