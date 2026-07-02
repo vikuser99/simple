@@ -13,7 +13,7 @@ One of my biggest interests is basketball. I love watching NBA games, keeping up
 
 I'm always looking to learn something new and challenge myself. Whether it's through basketball, martial arts, or the Police Cadet Program, I've learned the importance of discipline and confidence. I'm always working to improve and become the best version of myself.
 
-![My photo](https://vikuser99.github.io/simple/files/avik_1.jpeg){:width="20%"}
+![My photo](simple/images/avik_1.jpeg){:width="20%"}
 
 <!-- ![My photo](https://vikuser99.github.io/simple/files/avik_2.jpeg){:width="20%"} -->
 

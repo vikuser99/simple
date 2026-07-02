@@ -21,9 +21,9 @@ The next year, I came back and competed again. I still didn’t place in forms, 
 
 I still train at White Dragon now, and I’m always trying to get better. Martial arts has helped me a lot with confidence, discipline, and not backing down when things get hard.
 
-![Karate Certificate](https://vikuser99.github.io/simple/files/IMG_4124.jpeg){:width="100%"}
+<!-- ![Karate Certificate](https://vikuser99.github.io/simple/files/IMG_4124.jpeg){:width="100%"}
 
-![Karate Certificate](https://vikuser99.github.io/simple/images/IMG_4124.jpeg){:width="100%"}
+![Karate Certificate](https://vikuser99.github.io/simple/images/IMG_4124.jpeg){:width="100%"} -->
 
 ![Karate Certificate]({{ site.baseurl }}/simple/images/IMG_4124.jpeg){:width="100%"}
 
