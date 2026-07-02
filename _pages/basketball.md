@@ -6,8 +6,6 @@ redirect_from:
   - /basketball.html
 ---
 
-# Basketball
-
 Growing up, I was always an active kid. I loved playing all kinds of sports, and one thing I was always known for was my speed. Basketball wasn't my main sport at first, but that started to change when I would watch NBA games with my dad. We usually watched the Golden State Warriors, so the first players I really knew were Stephen Curry and LeBron James.
 
 Everything changed when my parents signed me up for a local basketball league in 4th grade. Even though I had always had a hoop at home and shot around for fun, this was the first time I had ever played organized basketball. I was nervous every game. As soon as I got the ball, I would immediately pass it to someone else because I was too afraid to make a mistake. I didn't score a single point the entire season.
