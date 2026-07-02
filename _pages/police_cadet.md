@@ -21,3 +21,5 @@ A big part of the experience was also meeting new people and working with other 
 Overall, the Police Cadet Program helped me build discipline, confidence, and a better understanding of law enforcement, and gave me a better idea of what working in a structured, service-based environment is like.
 
 {% include youtube.html id="OZOAl6k6SLE" %}
+
+{% include youtube.html id="Bq1V0BmZkR4" %}
