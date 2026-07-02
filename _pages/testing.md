@@ -1,9 +1,11 @@
 ---
-permalink: /testing/
-title: "Testing"
+permalink: /templates/
+title: "Templates"
 # author_profile: true
 redirect_from: 
   - /testing.html
+  - /templates.html
+  - /testing/
 ---
 
 # Images
