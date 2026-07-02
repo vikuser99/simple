@@ -23,6 +23,9 @@ I still train at White Dragon now, and I’m always trying to get better. Martia
 
 ![Karate Certificate](https://vikuser99.github.io/simple/files/IMG_4124.jpeg){:width="100%"}
 
+![Karate Certificate](https://vikuser99.github.io/simple/images/IMG_4124.jpeg){:width="100%"}
+
+
 {% include youtube.html id="oH0TWLY-OvQ" %}
 
 {% include youtube.html id="nOKOUO3c298" %}
