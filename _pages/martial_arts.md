@@ -1,4 +1,4 @@
----
+<img width="4032" height="3024" alt="IMG_6532" src="https://github.com/user-attachments/assets/0ed8c6e3-6c59-4854-8b70-88e77da0412a" />---
 permalink: /martial_arts/
 title: "Martial Arts"
 author_profile: true
@@ -7,29 +7,29 @@ redirect_from:
 ---
 
 
-I started martial arts when I was around 5 or 6. My parents put me in a Japanese karate class, and it was pretty intense for a kid that young. The sensei was very strict, and I remember crying after classes sometimes because it felt really hard. Even though it was tough, it taught me discipline early on.
-
-After a few years, I stopped for a bit and later joined [White Dragon](https://www.whitedragonmartialarts.com/),  where I started training in Choi Li Fut Kung Fu. It’s a Southern Chinese style that focuses on strong strikes, fast movement, and a mix of different techniques. The environment there was a lot more welcoming, which made it easier for me to actually enjoy training.
-
-At White Dragon, I learned forms, grappling, and kickboxing, which quickly became my favorite part. As you progress through each sash level, you have to pass tests where you demonstrate all the techniques you’ve learned. Those tests are some of the most nerve-wracking parts of training because the sifu (the head instructor) is watching while your instructor walks you through everything. I always felt a lot of pressure because I didn’t want to mess up in front of him and wanted to do well and impress him. Once you pass, they hand you your next sash, and it feels really rewarding knowing your hard work paid off.
-
-I also started competing in tournaments where you get judged on things like technique, power, confidence, and aggression.
-
-My first tournament was nerve-racking. Watching other competitors go before me made it worse, and when they finally called my name, my heart was racing. I tried to remember everything I practiced and get through it. I didn’t place, but it gave me a better idea of what competing is actually like.
-
-The next year, I came back and competed again. I still didn’t place in forms, but in kickboxing I ended up getting second place. I was exhausted by the end of it, but it felt really good seeing the improvement after putting in more work.
-
-I still train at White Dragon now, and I’m always trying to get better. Martial arts has helped me a lot with confidence, discipline, and not backing down when things get hard.
-
-![Karate Certificate](/simple/images/IMG_4124.jpeg){:width="100%"}
-
+I introduced myself to martial arts when I was 6 years old. My initial experience was training karate, where I was immediately dealing with a sense of rigor. The intensity and fear that it came with was something I never encountered before. I realized it was only a matter of time when I would be able to overcome this. Karate has taught me the significance of discipline and provided a sense of independence for me. 
 ![Karate Certificate](/simple/images/IMG_4534.PNG){:width="100%"}
 
+After a few years, I joined [White Dragon](https://www.whitedragonmartialarts.com/), where I started learning Kung Fu, kickboxing, and grappling. To me White Dragon was more welcoming than the harsh experiences I faced in the past and as I trained more, I started making more friends and enjoyed learning new techniques and pushing myself to be the best version of myself. As I progressed, I worked through different sash (belt) levels. The sash tests were always exciting but also nerve-racking because sifu, the head instructor, watched me as my tests occurred. I always strived to do my best and once I earned my next sash after months of practice with my instructor, it made all the hard work worth it. 
+![Karate Certificate](/simple/images/IMG_4124.jpeg){:width="100%"}
+![Karate Certificate](/simple/images/IMG_6532.jpeg){:width="100%"}
+![Karate Certificate](/simple/images/IMG_6523.jpeg){:width="100%"}
+![Karate Certificate](/simple/images/IMG_6501.jpeg){:width="100%"}
+
+As I gained more skills and confidence, I started competing in tournaments. There were judges for our techniques competition where I was graded based on power, aggression, technique, etc. Walking on the mat for the first time with judges and competitors staring at me forced me to get outside of my comfort zone and taught me how to stay calm under immense pressure. Each tournament taught me something new, and provided me with more experience that would help me in future tournaments. My favorite event is kickboxing. Competing in multiple matches really tested my endurance and stamina. Every match was exhausting but I had to stay focused and prepared for my next opponent acknowledging that each match would only get more intense and difficult. 
+
+Looking back, martial arts has taught me much more than different techniques. It has helped me become more confident by getting comfortable performing in front of judges and large crowds. It has also taught me discipline by showing me that improving requires consistency. Every class and tournament has helped me grow, and I continue to challenge myself every time I step onto the mat.
+  
 {% include youtube.html id="oH0TWLY-OvQ" %}
 
-{% include youtube.html id="nOKOUO3c298" %}
-
 {% include youtube.html id="9AUs4wHqq8k" %}
+
+
+
+
+
+
+
 
 
 
