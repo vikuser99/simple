@@ -27,4 +27,8 @@ I still train at White Dragon now, and I’m always trying to get better. Martia
 
 {% include youtube.html id="nOKOUO3c298" %}
 
+{% include youtube.html id="9AUs4wHqq8k" %}
+
+
+
 
