@@ -37,6 +37,14 @@ Preview:
 # Videos (using html snippet)
 
 ```
+{% raw %}
+  {% include youtube.html id="oH0TWLY-OvQ" %}
+{% endraw %}
+```
+
+which evaluates to 
+
+```
 {% include youtube.html id="oH0TWLY-OvQ" %}
 ```
 
