@@ -20,11 +20,19 @@ Preview:
 ## Recommended Way (Relative Paths)
 
 ```
+{% raw %}
 ![Karate Certificate]({{ site.baseurl }}/simple/images/IMG_4124.jpeg){:width="100%"}
 
 ![Karate Certificate](/simple/images/IMG_4124.jpeg){:width="100%"}
 
 ![Karate Certificate]({{"/simple/images/IMG_4124.jpeg" | relative_url}}){:width="100%"}
+{% endraw %}
+```
+
+which all evaluate to 
+
+```
+![Karate Certificate](/simple/images/IMG_4124.jpeg){:width="100%"}
 ```
 
 Preview:
