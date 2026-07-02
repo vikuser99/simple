@@ -54,3 +54,6 @@ Today, I continue training in Hindustani classical music. It has become a way fo
 {% include youtube.html id="Ztv-KK6DN_o" %}
 ## Raag Bihaag
 {% include youtube.html id="EuNTtf8UESw" %}
+## Raag Durga
+{% include youtube.html id="9OZouvWh0Ac" %}
+
