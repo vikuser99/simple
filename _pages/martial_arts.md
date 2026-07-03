@@ -1,4 +1,4 @@
-<img width="4032" height="3024" alt="IMG_6532" src="https://github.com/user-attachments/assets/0ed8c6e3-6c59-4854-8b70-88e77da0412a" />---
+---
 permalink: /martial_arts/
 title: "Martial Arts"
 author_profile: true
@@ -11,6 +11,7 @@ I introduced myself to martial arts when I was 6 years old. My initial experienc
 ![Karate Certificate](/simple/images/IMG_4534.PNG){:width="100%"}
 
 After a few years, I joined [White Dragon](https://www.whitedragonmartialarts.com/), where I started learning Kung Fu, kickboxing, and grappling. To me White Dragon was more welcoming than the harsh experiences I faced in the past and as I trained more, I started making more friends and enjoyed learning new techniques and pushing myself to be the best version of myself. As I progressed, I worked through different sash (belt) levels. The sash tests were always exciting but also nerve-racking because sifu, the head instructor, watched me as my tests occurred. I always strived to do my best and once I earned my next sash after months of practice with my instructor, it made all the hard work worth it. 
+
 ![Karate Certificate](/simple/images/IMG_4124.jpeg){:width="100%"}
 ![Karate Certificate](/simple/images/IMG_6532.jpeg){:width="100%"}
 ![Karate Certificate](/simple/images/IMG_6523.jpeg){:width="100%"}
