@@ -6,20 +6,25 @@ redirect_from:
   - /police_cadet.html
 ---
 
-I joined the Police Cadet Program in high school because I was interested in possibly going into the Air Force or another career in public service.
+I joined the Police Cadet Program in high school because I was interested and wanted to learn more about law enforcement and the different careers that followed it. I also wanted to challenge and push myself beyond my comfort zone. One of my core memories was going on ride-alongs with police officers in different areas of San Diego. Ride alongs really opened my eyes and showed me the world isn’t as perfect as it seems. Living in a safe decent neighborhood, I realized there are other parts of town with just straight crime and illegal activities. For example, on my ride alongs in the Central Division, I saw situations I’ve never seen before, such as people loitering, officers responding to overdose, buildings going on fire, and other crazy experiences. These ride alongs showed me what officers would go through every day. Another major part of the program was the Basic Training Explorer Academy (BETA) , a very intense training academy for police cadets. We spent hours standing in formation while drill instructors would yell and spit in our face. We ran and did physical training countless times, either for no reason or to pay for our mistakes. If one person makes a mistake, we all suffer. We also spent time in the classroom learning about topics such as patrol procedures, gang activity, drugs, etc. One of my favorite sessions was listening to a detective explain a real current case he was investigating, showing us live footage of the criminals while explaining his perspective of the crime. The BETA Academy was a way for me to step out of my comfort zone and be more of a man filled with courage. I feel like the academy also united us as a group as we went through everything together: pain, fun, lunch, etc. Outside of the academy, we met every other Tuesday for physical training and classroom instruction. We practiced teamwork and fitness while continuing to learn about different responsibilities within law enforcement. Each meeting gave me another opportunity to learn something such as different radio codes, and how to arrest suspects, etc., and improve alongside the other cadets. Looking back, the Police Cadet Program helped me become more confident by putting me in situations that pushed me outside my comfort zone. It also taught me discipline through physical training, formations, and the responsibility of representing the program professionally. More than anything, it gave me a view of public service and showed me the importance of teamwork, and serving the community.
 
-Through the program, I went on several ride-alongs with police officers and got to see what their day-to-day work is actually like. It helped me understand law enforcement a lot more and see the different situations officers deal with. I also met a lot of new people and built connections with officers and other cadets.
-
-On one of my ride-alongs in Central Division, I saw a lot of different situations that stood out to me, like people loitering, expired license plates, and overdosed individuals. It made me realize what the real world is like and that life isn’t always perfect or simple the way it seems from the outside.
-
-One of the main parts of the program was the BETA Academy. The training days were long and pretty intense. We would spend hours standing in formation while drill instructors corrected everything, from posture to attention. We also had long classroom sessions where we learned about different parts of policing and how things work in real situations. One of the most memorable parts was when a detective came in and explained a case he had worked on. Hearing everything step by step made it feel a lot more real and gave a better idea of what the job is actually like.
-
-The program also included regular physical training to build fitness and discipline. On top of that, we had meetings every other Tuesday where we learned new things and went over different topics in law enforcement.
-
-A big part of the experience was also meeting new people and working with other cadets. Spending so much time together during training and events made it easy to build friendships and connect with others in the program.
-
-Overall, the Police Cadet Program helped me build discipline, confidence, and a better understanding of law enforcement, and gave me a better idea of what working in a structured, service-based environment is like.
 
 {% include youtube.html id="OZOAl6k6SLE" %}
 
 {% include youtube.html id="Bq1V0BmZkR4" %}
+
+
+![Police Pic](/simple/images/IMG_5305.jpeg){:width="100%"}
+
+![Police Pic](/simple/images/IMG_6613.jpeg){:width="100%"}
+
+![Police Pic](/simple/images/IMG_6619.jpeg){:width="100%"}
+
+![Police Pic](/simple/images/IMG_6627.jpeg){:width="100%"}
+
+![Police Pic](/simple/images/IMG_6638.jpeg){:width="100%"}
+
+![Police Pic](/simple/images/IMG_6639.jpeg){:width="100%"}
+
+![Police Pic](/simple/images/IMG_6642.jpeg){:width="100%"}
+
