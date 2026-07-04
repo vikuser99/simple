@@ -9,6 +9,7 @@ redirect_from:
 
 I introduced myself to martial arts when I was 6 years old. My initial experience was training karate, where I was immediately dealing with a sense of rigor. The intensity and fear that it came with was something I never encountered before. I realized it was only a matter of time when I would be able to overcome this. Karate has taught me the significance of discipline and provided a sense of independence for me. 
 ![Karate Certificate](/simple/images/IMG_4534.PNG){:width="100%"}
+![Karate Certificate](/simple/images/IMG_8019.PNG){:width="100%"}
 
 After a few years, I joined [White Dragon](https://www.whitedragonmartialarts.com/), where I started learning Kung Fu, kickboxing, and grappling. To me White Dragon was more welcoming than the harsh experiences I faced in the past and as I trained more, I started making more friends and enjoyed learning new techniques and pushing myself to be the best version of myself. As I progressed, I worked through different sash (belt) levels. The sash tests were always exciting but also nerve-racking because sifu, the head instructor, watched me as my tests occurred. I always strived to do my best and once I earned my next sash after months of practice with my instructor, it made all the hard work worth it. 
 
@@ -24,6 +25,8 @@ Looking back, martial arts has taught me much more than different techniques. It
 {% include youtube.html id="oH0TWLY-OvQ" %}
 
 {% include youtube.html id="9AUs4wHqq8k" %}
+
+{% include youtube.html id="yZ39dSuq-Jo" %}
 
 
 
