@@ -17,6 +17,7 @@ After creating the visualizations, I wrote short analysis notes for each section
 
 In the end, I put everything together into a presentation that summarized the main findings. The project helped me get more comfortable using Python for data analysis and showed me how data can be used to answer real questions in basketball.
 
+## Some plots 
 
 ![Police Pic](/simple/images/box1.png){:width="100%"}
 
