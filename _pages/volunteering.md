@@ -19,6 +19,8 @@ Overall, volunteering for me has just been about showing up, helping out, and le
 
 ![vol pic](/simple/images/IMG_3054.jpeg){:width="100%"}
 
-![vol pic](/simple/images/IMG_3314.jpeg){:width="100%"}
+![vol pic](/simple/images/CWQM0714.JPG){:width="100%"}
 
 ![vol pic](/simple/images/IMG_2879.JPEG){:width="100%"}
+
+
