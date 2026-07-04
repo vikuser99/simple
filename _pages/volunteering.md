@@ -19,4 +19,4 @@ Overall, volunteering for me has just been about showing up, helping out, and le
 
 ![Police Pic](/simple/images/IMG_3054.jpeg){:width="100%"}
 
-![Police Pic](/simple/images/IMG_3314j.peg){:width="100%"}
+![Police Pic](/simple/images/IMG_3314.jpeg){:width="100%"}
