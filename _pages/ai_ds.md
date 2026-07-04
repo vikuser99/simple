@@ -6,9 +6,22 @@ redirect_from:
   - /ai_ds.html
 ---
 
-One of the projects I've completed so far is analyzing an NBA dataset using Python. I created 10 questions about basketball statistics and used data analysis to answer each one.
 
-I used Python along with libraries like Pandas, NumPy, and Matplotlib to clean the data, create different types of graphs, and visualize trends. After creating each graph, I wrote my own analysis, observations, and predictions based on the results.
+For this project, I used an NBA dataset to explore different questions about player performance. I came up with around 10 questions and used data analysis to find patterns and relationships in the data.
 
-To wrap up the project, I put everything into a presentation that explained my findings and what I learned. This project helped me strengthen my Python programming, data analysis, and data visualization skills while combining them with my interest in basketball.
+I used Python along with libraries like pandas, numpy, and matplotlib to clean the data and create different types of graphs. These included scatter plots, bar charts, and trend comparisons to help visualize relationships between stats like age, height, scoring, usage, and efficiency.
+
+The goal of the project was to understand what actually affects player performance. For example, I looked at how age impacts scoring and assists, how height affects rebounding, and how usage rate and efficiency relate to scoring output.
+
+After creating the visualizations, I wrote short analysis notes for each section explaining what the graphs showed and what conclusions could be made from the data. I also compared different player types like stars, role players, shooters, and rebounders to see what separates them statistically.
+
+In the end, I put everything together into a presentation that summarized the main findings. The project helped me get more comfortable using Python for data analysis and showed me how data can be used to answer real questions in basketball.
+
+
+![Police Pic](/simple/images/box1.png){:width="100%"}
+
+![Police Pic](/simple/images/histo1.png){:width="100%"}
+
+![Police Pic](/simple/images/line1.png){:width="100%"}
+
 
