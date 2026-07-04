@@ -17,6 +17,6 @@ Through the Police Cadet Program, I’ve also been part of ride-alongs and commu
 Overall, volunteering for me has just been about showing up, helping out, and learning from different environments. It’s given me a chance to give back in small ways while doing things I’m already interested in.
 
 
-![Police Pic](/simple/images/IMG_3054..jpeg){:width="100%"}
+![Police Pic](/simple/images/IMG_3054.jpeg){:width="100%"}
 
-![Police Pic](/simple/images/IMG_3314jpeg){:width="100%"}
+![Police Pic](/simple/images/IMG_3314j.peg){:width="100%"}
