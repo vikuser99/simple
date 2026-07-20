@@ -7,31 +7,53 @@ redirect_from:
 ---
 
 
-I introduced myself to martial arts when I was 6 years old. My initial experience was training karate, where I was immediately dealing with a sense of rigor. The intensity and fear that it came with was something I never encountered before. I realized it was only a matter of time when I would be able to overcome this. Karate has taught me the significance of discipline and provided a sense of independence for me. 
-![Karate Certificate](/simple/images/IMG_4534.PNG){:width="100%"}
-<br>
-![Karate Certificate](/simple/images/IMG_8019.PNG){:width="100%"}
+I was introduced to martial arts when I was six years old. My first experience was training in karate, where I immediately encountered a level of discipline and intensity that I had never experienced before. The environment was challenging, and at times intimidating, but I learned that growth comes from facing difficult situations rather than avoiding them.
 
-After a few years, I joined [White Dragon](https://www.whitedragonmartialarts.com/), where I started learning Kung Fu, kickboxing, and grappling. To me White Dragon was more welcoming than the harsh experiences I faced in the past and as I trained more, I started making more friends and enjoyed learning new techniques and pushing myself to be the best version of myself. As I progressed, I worked through different sash (belt) levels. The sash tests were always exciting but also nerve-racking because sifu, the head instructor, watched me as my tests occurred. I always strived to do my best and once I earned my next sash after months of practice with my instructor, it made all the hard work worth it. 
+Karate taught me the importance of discipline, perseverance, and personal responsibility. It also gave me a sense of independence and confidence that carried over into other areas of my life.
 
-![Karate Certificate](/simple/images/IMG_4124.jpeg){:width="100%"}
-<br>
-![Karate Certificate](/simple/images/IMG_6532.jpeg){:width="100%"}
-<br>
-![Karate Certificate](/simple/images/IMG_6523.jpeg){:width="100%"}
-<br>
-![Karate Certificate](/simple/images/IMG_6501.jpeg){:width="100%"}
+<div style="text-align:center;"> <img src="/simple/images/IMG_4534.PNG" width="70%"> </div>
 
-As I gained more skills and confidence, I started competing in tournaments. There were judges for our techniques competition where I was graded based on power, aggression, technique, etc. Walking on the mat for the first time with judges and competitors staring at me forced me to get outside of my comfort zone and taught me how to stay calm under immense pressure. Each tournament taught me something new, and provided me with more experience that would help me in future tournaments. My favorite event is kickboxing. Competing in multiple matches really tested my endurance and stamina. Every match was exhausting but I had to stay focused and prepared for my next opponent acknowledging that each match would only get more intense and difficult. 
+<br>
 
-Looking back, martial arts has taught me much more than different techniques. It has helped me become more confident by getting comfortable performing in front of judges and large crowds. It has also taught me discipline by showing me that improving requires consistency. Every class and tournament has helped me grow, and I continue to challenge myself every time I step onto the mat.
-  
+<div style="text-align:center;"> <img src="/simple/images/IMG_8019.PNG" width="70%"> </div>
+
+After a few years, I joined White Dragon Martial Arts, where I began training in Kung Fu, kickboxing, and grappling. Compared to my earlier experiences, White Dragon felt more welcoming and helped me develop a stronger passion for martial arts.
+
+As I continued training, I made new friends, learned new techniques, and challenged myself to improve every day. I progressed through multiple sash levels, each representing months of hard work and dedication. Testing days were always exciting but also nerve-racking because I knew my instructors would be closely evaluating every technique and movement.
+
+Earning a new sash after months of preparation was one of the most rewarding experiences in martial arts. It showed me that consistent effort eventually leads to meaningful results.
+
+<div style="text-align:center;"> <img src="/simple/images/IMG_4124.jpeg" width="70%"> </div>
+
+<br>
+
+<div style="text-align:center;"> <img src="/simple/images/IMG_6532.jpeg" width="70%"> </div>
+
+<br>
+
+<div style="text-align:center;"> <img src="/simple/images/IMG_6523.jpeg" width="70%"> </div>
+
+<br>
+
+<div style="text-align:center;"> <img src="/simple/images/IMG_6501.jpeg" width="70%"> </div>
+
+As I gained more experience and confidence, I began competing in martial arts tournaments. During forms and techniques competitions, judges evaluated competitors on factors such as technique, power, control, aggression, and overall performance.
+
+Walking onto the competition floor for the first time was intimidating. Standing in front of judges, instructors, and other competitors forced me to step outside my comfort zone and perform under pressure. Over time, these experiences helped me become more confident and taught me how to stay focused even in stressful situations.
+
+My favorite event is kickboxing. Unlike forms competitions, kickboxing requires quick decision-making, endurance, and the ability to adapt to different opponents. Every match tested my stamina and mental toughness. As tournaments progressed, the competition became more challenging, requiring me to stay disciplined and prepared for each round.
+
+One of the lessons I learned from competition is that success is not determined by a single performance. Every tournament, whether I won or lost, gave me valuable experience and highlighted areas where I could continue improving.
+
+Looking back, martial arts has taught me much more than self-defense techniques. It has helped me develop confidence by performing in front of judges and large crowds. It has taught me discipline by showing that meaningful improvement requires consistency and dedication over time.
+
+Most importantly, martial arts has taught me how to embrace challenges rather than avoid them. Every class, test, tournament, and training session has helped me grow as both an athlete and a person, and I continue to challenge myself every time I step onto the mat.
+
 {% include youtube.html id="yZ39dSuq-Jo" %}
 
 {% include youtube.html id="9AUs4wHqq8k" %}
 
 {% include youtube.html id="oH0TWLY-OvQ" %}
-
 
 
 
