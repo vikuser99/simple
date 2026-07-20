@@ -18,10 +18,23 @@ After creating the visualizations, I wrote short analysis notes for each section
 In the end, I put everything together into a presentation that summarized the main findings. The project helped me get more comfortable using Python for data analysis and showed me how data can be used to answer real questions in basketball.
 
 ## Some plots 
+How Does Age Affect Player Impact?
+
+Net Rating measures the point differential per 100 possessions while a player is on the court. A higher Net Rating generally indicates a greater positive impact on team performance.
+
+Conclusion: Net Rating generally improves as players gain experience and approach their prime years. The upper quartile (Q3) remains high into the early 30s, suggesting that elite players are often able to maintain their impact longer than the average player.
 
 ![Police Pic](/simple/images/box1.png){:width="100%"}
 
+Rebounds per game measure how many missed shots a player recovers during a game. Rebounding is important because it creates extra possessions and limits second-chance opportunities for opponents. To explore this relationship, I compared player age and rebounds per game across multiple NBA seasons.
+
+Conclusion: Rebounding is usually strongest during a player's prime years. While younger and older players can still be effective rebounders, the highest concentration of strong rebounding seasons occurs between the mid-20s and early-30s.
+
 ![Police Pic](/simple/images/histo1.png){:width="100%"}
+
+True Shooting Percentage (TS%) is a measure of scoring efficiency that accounts for field goals, three-pointers, and free throws. It provides a more complete measure of efficiency than field goal percentage alone. The graph below shows how scoring efficiency changes across different age groups using the lower quartile (Q1), median, mean, and upper quartile (Q3).
+
+Conclusion: Scoring efficiency increases with age and experience before leveling off later in a player's career. The steady increase across all quartiles suggests that players often become more efficient as they develop.
 
 ![Police Pic](/simple/images/line1.png){:width="100%"}
 
