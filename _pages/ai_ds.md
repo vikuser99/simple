@@ -25,4 +25,22 @@ In the end, I put everything together into a presentation that summarized the ma
 
 ![Police Pic](/simple/images/line1.png){:width="100%"}
 
+<h3>NBA Analytics Presentation</h3>
+
+<p>
+This presentation summarizes the questions, analysis, visualizations, and conclusions from my NBA data analytics project.
+</p>
+
+<div style="text-align:center;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSylg866to2cwAGAWI0EtfyCDihtMOgYxYQgHhv3hMkdjG7jQAzndYtmhLmz6JDAz38WA9Thd5RSYF3/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    width="960"
+    height="569"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
 
