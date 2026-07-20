@@ -11,7 +11,7 @@ I was introduced to martial arts when I was six years old. My first experience w
 
 Karate taught me the importance of discipline, perseverance, and personal responsibility. It also gave me a sense of independence and confidence that carried over into other areas of my life.
 
-<div style="text-align:center;"> <img src="/simple/images/IMG_4534.PNG" width="70%"> </div>
+<div style="text-align:center;"> <img src="/simple/images/IMG_4534.jpg" width="70%"> </div>
 
 <br>
 
