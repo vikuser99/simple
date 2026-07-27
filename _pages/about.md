@@ -13,6 +13,11 @@ One of my biggest interests is basketball. I love watching NBA games, keeping up
 
 I'm always looking to learn something new and challenge myself. Whether it's through basketball, martial arts, or the Police Cadet Program, I've learned the importance of discipline and confidence. I'm always working to improve and become the best version of myself.
 
+<img src="/images/WhatsApp Image 2026-07-27 at 6.05.51 AM.jpeg" alt="Basketball Image 1" width="600">
+
+<img src="/images/WhatsApp Image 2026-07-27 at 6.10.14 AM.jpeg" alt="Basketball Image 2" width="600">
+
+<img src="/images/WhatsApp Image 2026-07-27 at 6.10.33 AM.jpeg" alt="Basketball Image 3" width="600">
 
 ![Police Pic](/simple/images/IMG_6627.jpeg){:width="100%"}
 
