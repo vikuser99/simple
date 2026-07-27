@@ -16,10 +16,16 @@ Over the years, I’ve performed in front of audiences, which allowed me to beco
 
 ## Some Performances
 {% include youtube.html id="GhT8AvjJkZA" %}
+
+This was my first Hindustani Classical Performance. I was very nervous at first, but performing with my group members made me feel much better and comfortable. It was a great learning experience for me and it laid the foundation for many more performances to come.
+
 ## Raag Bhimpalasi
 {% include youtube.html id="Ztv-KK6DN_o" %}
 ## Raag Bihaag
 {% include youtube.html id="EuNTtf8UESw" %}
+
+Raag Bihaag is one of my favorite ragas to perform. This performance was meaningful to me because it was one of the first times that I implemented improvision rather than simply memorize the composition. It allowed me to better understand the raga and gave me more confidence in expressing my own musical ideas while following the true structure of the raag. I felt more free and that gave me a lot more confidence and joy while performing.
+
 ## Raag Durga
 {% include youtube.html id="9OZouvWh0Ac" %}
 
