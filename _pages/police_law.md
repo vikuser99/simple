@@ -28,10 +28,6 @@ Looking back, the Police Cadet Program helped me become more confident by puttin
 
 ![Police Pic](/simple/images/IMG_6619.jpeg){:width="100%"}
 
-![Police Pic](/simple/images/IMG_6627.jpeg){:width="100%"}
-
-![Police Pic](/simple/images/IMG_6638.jpeg){:width="100%"}
-
 ![Police Pic](/simple/images/IMG_6639.jpeg){:width="100%"}
 
 ![Police Pic](/simple/images/IMG_6642.jpeg){:width="100%"}
