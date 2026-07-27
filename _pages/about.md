@@ -22,7 +22,7 @@ I'm always looking to learn something new and challenge myself. Whether it's thr
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="/simple/images/IMG_6627.jpeg" width="45%">
-  <img src="/simple/images/IMG_6638.jpeg" width="45%">
+  <img src="/simple/images/WhatsApp%20Image%202026-07-27%20at%209.00.01%20AM.jpeg" width="45%">
 </div>
 
 <br>
