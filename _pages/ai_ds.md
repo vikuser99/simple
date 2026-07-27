@@ -30,13 +30,13 @@ Rebounds per game measure how many missed shots a player recovers during a game.
 
 Conclusion: Rebounding is usually strongest during a player's prime years. While younger and older players can still be effective rebounders, the highest concentration of strong rebounding seasons occurs between the mid-20s and early-30s.
 
-![Police Pic](/simple/images/downloads.png){:width="100%"}
+![Police Pic](/simple/images/downloadz.png){:width="100%"}
 
 True Shooting Percentage (TS%) is a measure of scoring efficiency that accounts for field goals, three-pointers, and free throws. It provides a more complete measure of efficiency than field goal percentage alone. The graph below shows how scoring efficiency changes across different age groups using the lower quartile (Q1), median, mean, and upper quartile (Q3).
 
 Conclusion: Scoring efficiency increases with age and experience before leveling off later in a player's career. The steady increase across all quartiles suggests that players often become more efficient as they develop.
 
-![Police Pic](/simple/images/line1.png){:width="100%"}
+![Police Pic](/simple/images/downloads.png){:width="100%"}
 
 <h3>NBA Analytics Presentation</h3>
 
