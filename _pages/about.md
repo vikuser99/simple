@@ -15,14 +15,21 @@ I'm always looking to learn something new and challenge myself. Whether it's thr
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="/simple/images/WhatsApp%20Image%202026-07-27%20at%206.05.51%20AM.jpeg" width="45%">
-  <img src="/simple/images/WhatsApp%20Image%202026-07-27%20at%206.10.33%20AM.jpeg" width="45%">
+  <img src="/simple/images/WhatsApp%20Image%202026-07-27%20at%206.10.33%20AM.jpeg" width="50%">
 </div>
 
-![Basketball 2](/simple/images/WhatsApp%20Image%202026-07-27%20at%206.10.14%20AM.jpeg){:width="75%"}
+<br>
 
-![Police Pic](/simple/images/IMG_6627.jpeg){:width="100%"}
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="/simple/images/IMG_6627.jpeg" width="45%">
+  <img src="/simple/images/IMG_6638.jpeg" width="45%">
+</div>
 
-![Police Pic](/simple/images/IMG_6638.jpeg){:width="100%"}
+<br>
+
+<p align="center">
+  <img src="/simple/images/WhatsApp%20Image%202026-07-27%20at%206.10.14%20AM.jpeg" width="65%">
+</p>
 
 
 
