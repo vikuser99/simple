@@ -13,7 +13,7 @@ One of my biggest interests is basketball. I love watching NBA games, keeping up
 
 I'm always looking to learn something new and challenge myself. Whether it's through basketball, martial arts, or the Police Cadet Program, I've learned the importance of discipline and confidence. I'm always working to improve and become the best version of myself.
 
-![Basketball 1](/simple/images/WhatsApp%20Image%202026-07-27%20at%206.05.51%20AM.jpeg){:width="100%"}
+![Basketball 1](/simple/images/WhatsApp%20Image%202026-07-27%20at%206.05.51%20AM.jpeg){:width="60%"}
 
 ![Basketball 2](/simple/images/WhatsApp%20Image%202026-07-27%20at%206.10.14%20AM.jpeg){:width="100%"}
 
