@@ -24,7 +24,7 @@ Net Rating measures the point differential per 100 possessions while a player is
 
 Conclusion: Net Rating generally improves as players gain experience and approach their prime years. The upper quartile (Q3) remains high into the early 30s, suggesting that elite players are often able to maintain their impact longer than the average player.
 
-![Police Pic](/simple/images/box1.png){:width="100%"}
+![Police Pic](/simple/images/download.png){:width="100%"}
 
 Rebounds per game measure how many missed shots a player recovers during a game. Rebounding is important because it creates extra possessions and limits second-chance opportunities for opponents. To explore this relationship, I compared player age and rebounds per game across multiple NBA seasons.
 
