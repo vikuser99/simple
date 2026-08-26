@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ![Police Pic](/simple/images/IMG_5305.jpeg){:width="75%"}
+
 I joined the Police Cadet Program in high school because I was interested and wanted to learn more about law enforcement and the different careers that followed it. I also wanted to challenge and push myself beyond my comfort zone. 
 
 One of my core memories was going on ride-alongs with police officers in different areas of San Diego. Ride alongs really opened my eyes and showed me the world isn’t as perfect as it seems. Living in a safe decent neighborhood, I realized there are other parts of town with just straight crime and illegal activities. For example, on my ride alongs in the Central Division, I saw situations I’ve never seen before, such as people loitering, officers responding to overdose, buildings going on fire, and other crazy experiences. These ride alongs showed me what officers would go through every day. 
