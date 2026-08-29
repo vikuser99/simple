@@ -8,6 +8,17 @@ redirect_from:
 
 Music has always been a big part of my life. One of the first instruments I learned was guitar, an instrument that sparked my interest in music at a young age. As time went on, I realized that singing was developed into a big passion of mine. Family and friends saw a lot of potential in my voice whenever I sang for them and that motivated me to continue my musical journey.
 
+<div style="display: flex; justify-content: center;">
+  <video width="560" height="315" controls>
+    <source src="https://raw.githubusercontent.com/vikuser99/simple/main/images/WhatsApp%20Video%202026-08-29%20at%2012.48.00%20PM.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<p style="text-align: center; font-style: italic;">
+  Playing bass guitar with my instructor during a band practice.
+</p>
+
 At the age of 10, I began learning Hindustani classical music under my first guru, [Aditya Sharma](https://www.facebook.com/gandharvamusic/). He is a teacher at Gandharva Music Academy, an Indian classical music school located in San Diego. During my time under his guidance, I built my basic foundation by learning the seven swars (notes), different vocal exercises, and then eventually bandishes to raags. He also helped me prepare for annual music examinations, which were nerve-racking but also an enjoyable experience for me. I would just sing with passion and devotion to my viewers and that's how I eased my nerves during performances. 
 
 As I reached high school, I began training under [Guru Sanjeev Chimmalgi](https://www.youtube.com/@sanjeevchimmalgi). Under his influence, I started studying Hindustani music at a much deeper level. Instead of just memorizing compositions, I began to focus on the structure of different raags and how to improvise within them. It’s something that is very challenging, but it opened my eyes to what Hindustani music is really about. It unleashed the creativity aspect of my brain. For example, when I visited and stayed in my guru’s house back in Mumbai, India, I learned a raag called Durga. Instead of just memorizing notes that my guru provided me, I tried making my own alaaps (notes during the beginning and middle of the composition). 
