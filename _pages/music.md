@@ -21,6 +21,19 @@ Music has always been a big part of my life. One of the first instruments I lear
 
 At the age of 10, I began learning Hindustani classical music under my first guru, [Aditya Sharma](https://www.facebook.com/gandharvamusic/). He is a teacher at Gandharva Music Academy, an Indian classical music school located in San Diego. During my time under his guidance, I built my basic foundation by learning the seven swars (notes), different vocal exercises, and then eventually bandishes to raags. He also helped me prepare for annual music examinations, which were nerve-racking but also an enjoyable experience for me. I would just sing with passion and devotion to my viewers and that's how I eased my nerves during performances. 
 
+<div style="display: flex; justify-content: center;">
+  <iframe 
+    src="https://drive.google.com/file/d/1mYbqFqF0YrtqPQ507700nqCwZ_J8zCwa/preview" 
+    width="560" 
+    height="315"
+    allow="autoplay">
+  </iframe>
+</div>
+
+<p style="text-align: center; font-style: italic;">
+  Singing a Krishna bhajan as part of the Gandharva Music Academy program under my Guruji, Aditya Sharma.
+</p>
+
 As I reached high school, I began training under [Guru Sanjeev Chimmalgi](https://www.youtube.com/@sanjeevchimmalgi). Under his influence, I started studying Hindustani music at a much deeper level. Instead of just memorizing compositions, I began to focus on the structure of different raags and how to improvise within them. It’s something that is very challenging, but it opened my eyes to what Hindustani music is really about. It unleashed the creativity aspect of my brain. For example, when I visited and stayed in my guru’s house back in Mumbai, India, I learned a raag called Durga. Instead of just memorizing notes that my guru provided me, I tried making my own alaaps (notes during the beginning and middle of the composition). 
 
 <div style="display: flex; justify-content: center; width: 100%;">
