@@ -11,14 +11,10 @@ redirect_from:
 
 Growing up, I was always an active person. I enjoyed being outdoors playing different sports and competing with others. Gradually, basketball became my favorite sport after I started watching more NBA games with my dad. We usually watched the popular teams in the Golden State Warriors or the Cleveland Cavaliers, but it was James Harden from the Houston Rockets that stood out the most. My father and I would watch his mixtapes and highlights together, and really enjoyed how he played. It is what inspired me to play basketball in the first place.
 
-<div style="text-align: center;">
-  <iframe 
-    src="https://drive.google.com/file/d/1gAEMXC4mecX0wbXnLtMS5FcdxoIJHJnL/preview" 
-    width="560" 
-    height="315"
-    allow="autoplay">
-  </iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://drive.google.com/file/d/1gAEMXC4mecX0wbXnLtMS5FcdxoIJHJnL/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
+<br>
 
 <p style="text-align: center; font-style: italic;">
   Rockets guard James Harden warms up before a game against the Los Angeles Clippers, November 22, 2019.
