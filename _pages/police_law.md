@@ -6,7 +6,7 @@ redirect_from:
   - /police_law.html
 ---
 
-![Police Pic](/simple/images/IMG_5305.jpeg){:width="75%"}
+![Police Pic](/simple/images/IMG_5305.jpeg){:width="100%"}
 
 <div style="margin-bottom: 40px;"></div>
 
