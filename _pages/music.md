@@ -12,11 +12,12 @@ At the age of 10, I began learning Hindustani classical music under my first gur
 
 As I reached high school, I began training under [Guru Sanjeev Chimmalgi](https://www.youtube.com/@sanjeevchimmalgi). Under his influence, I started studying Hindustani music at a much deeper level. Instead of just memorizing compositions, I began to focus on the structure of different raags and how to improvise within them. It’s something that is very challenging, but it opened my eyes to what Hindustani music is really about. It unleashed the creativity aspect of my brain. For example, when I visited and stayed in my guru’s house back in Mumbai, India, I learned a raag called Durga. Instead of just memorizing notes that my guru provided me, I tried making my own alaaps (notes during the beginning and middle of the composition). 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; width: 100%;">
   <blockquote 
     class="instagram-media" 
     data-instgrm-permalink="https://www.instagram.com/reel/DSIOVXvDIAk/" 
-    data-instgrm-version="14">
+    data-instgrm-version="14"
+    style="max-width: 540px; width: 100%; margin: 0 auto;">
   </blockquote>
 </div>
 
